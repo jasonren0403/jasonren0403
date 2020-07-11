@@ -1,4 +1,4 @@
-### Hi there, welcome to my respotiory !
+### Hi there, welcome to my repository !
 
 <!--
 **jasonren0403/jasonren0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

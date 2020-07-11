@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to my respotiory !
 
 <!--
 **jasonren0403/jasonren0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Who am I
+
+```
+this part is going to be completed...
+```
+
+# What am I doing here
+
+```
+this part is going to be completed...
+```
+
+# How to describe me...
+
+```
+this part is going to be completed...
+```

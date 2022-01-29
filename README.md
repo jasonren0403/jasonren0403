@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## How to describe me... | 怎么快速了解我？
 
-Visit the [GitHub page](https://jasonren0403.github.io/jasonren0403/others) of personel introduction. _To be finished soon_
+Visit the [GitHub page](https://jasonren0403.github.io/jasonren0403/other) of personel introduction. _To be finished soon_
 
 ## My Github stat | 我的Github贡献记录
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md#GitHub-%E7%BB%9F%E8%AE%A1%E5%8D%A1%E7%89%87-->

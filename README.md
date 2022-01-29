@@ -34,3 +34,7 @@ Visit the [GitHub page](https://jasonren0403.github.io/jasonren0403/) of persone
 ## My Github stat | 我的Github贡献记录
 
 ![Metrics](https://metrics.lecoq.io/jasonren0403?template=terminal&config.timezone=Asia%2FShanghai)
+
+## My Favorite Programming Language | 我使用的编程语言
+
+![jasonren0403's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=jasonren0403&show_icons=true&count_private=true&theme=gotham)

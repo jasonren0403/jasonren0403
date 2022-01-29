@@ -23,5 +23,4 @@ Visit the [GitHub page](https://jasonren0403.github.io/jasonren0403/other) of pe
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md#GitHub-%E7%BB%9F%E8%AE%A1%E5%8D%A1%E7%89%87-->
 
 ![jasonren0403's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonren0403&show_icons=true&theme=radical)
-
-![jasonren0403's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=jasonren0403&layout=compact&hide_border=true&langs_count=5)
+![jasonren0403's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=jasonren0403&layout=compact&langs_count=5)

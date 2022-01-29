@@ -26,6 +26,6 @@ Visit the [GitHub page](https://jasonren0403.github.io/jasonren0403/other) of pe
 ![jasonren0403's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=jasonren0403&layout=compact&langs_count=5)
 
 ## Contact me | 联系我
-[![Jason Ren's Discord Channel](https://img.shields.io/discord/801485173219655751)](https://discord.gg/s33UBWEPxb)
+[![Jason Ren's Discord](https://img.shields.io/discord/801485173219655751?label=Chat%20with%20me%20within%20channel&style=social)(https://discord.gg/s33UBWEPxb)
 [![Follow My Twitter](https://img.shields.io/twitter/follow/theRealRev270?style=social)](https://twitter.com/theRealRev270)
 [![My facebook](https://img.shields.io/badge/Facebook-white?logo=facebook)](https://www.facebook.com/renjason1999)

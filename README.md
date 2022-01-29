@@ -37,4 +37,4 @@ Visit the [GitHub page](https://jasonren0403.github.io/jasonren0403/) of persone
 
 ## My Favorite Programming Language | 我使用的编程语言
 
-![jasonren0403's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=jasonren0403&show_icons=true&count_private=true&theme=gotham)
+![jasonren0403's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=jasonren0403&layout=compact&hide_border=true&langs_count=5)

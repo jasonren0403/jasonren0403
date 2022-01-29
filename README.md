@@ -15,21 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Who am I | 我是谁？
-
-* Living in Beijing, China, loves coding and life.
-* Currently studying Information Security in the university.
-
-## What am I doing here | 我为什么在这里？
-
-* Just like the words under my avatar:
-> share anything may be useful for everyone or personel interesting projects
-
-* Try building static websites using [GitHub Pages](https://pages.github.com/)
-
 ## How to describe me... | 怎么快速了解我？
 
-Visit the [GitHub page](https://jasonren0403.github.io/jasonren0403/) of personel introduction. _To be finished soon_
+Visit the [GitHub page](https://jasonren0403.github.io/jasonren0403/others) of personel introduction. _To be finished soon_
 
 ## My Github stat | 我的Github贡献记录
 
